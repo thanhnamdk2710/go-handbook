@@ -6,12 +6,12 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
 
 Go merges the best features from various programming languages:
 
-- Clarity: Clean syntax and minimal language features
-- Speed: Compiled language with garbage collection
-- Concurrency: Built-in support via goroutines and channels
-- Reliability: Robust typing system with built-in memory protection
-- Efficiency: Fast compilation and comprehensive standard library
-- Modern: Built for today's microservices, cloud-native applications, and distributed systems
+- **Clarity**: Clean syntax and minimal language features
+- **Speed**: Compiled language with garbage collection
+- **Concurrency**: Built-in support via goroutines and channels
+- **Reliability**: Robust typing system with built-in memory protection
+- **Efficiency**: Fast compilation and comprehensive standard library
+- **Modern**: Built for today's microservices, cloud-native applications, and distributed systems
 
 ## Language Overview
 
@@ -56,31 +56,31 @@ func worker(id int, ch chan<- string, wg *sync.WaitGroup) {
 
 Begin your Go journey with our comprehensive getting started guide:
 
-1. Installation:
+### 1. Installation:
 
 - System setup
 - Environment configuration
 - Verification steps
 
-2. First Steps
+### 2. First Steps
 
 - Basic syntax
 - Running programs
 - Development workflow
 
-3. Workspace Setup
+### 3. Workspace Setup
 
 - Project organization
 - Code structure
 - Best practices
 
-4. Go Modules
+### 4. Go Modules
 
 - Dependency management
 - Version control
 - Package distribution
 
-5. Development Tools
+### 5. Development Tools
 
 - Command-line utilities
 - IDE integration
@@ -90,7 +90,7 @@ Begin your Go journey with our comprehensive getting started guide:
 
 Build mastery in Go's essential elements:
 
-1. Variables and Data Types
+### 1. Variables and Data Types
 
 ```go
 var language string = "Golang"
@@ -98,7 +98,7 @@ version := 1.23 // Automatic type detection
 const MaxUsers = 1000
 ```
 
-2. Flow Control
+### 2. Flow Control
 
 ```go
 if gender == "male" {
@@ -114,7 +114,7 @@ for index, value := range items {
 }
 ```
 
-3. Functions
+### 3. Functions
 
 ```go
 func multiply(a, b int) int {
@@ -134,7 +134,7 @@ func processData(input string) (result string, err error) {
 
 Master Go's fundamental data structures:
 
-1. Arrays and Slices
+### 1. Arrays and Slices
 
 ```go
 // Array
@@ -145,7 +145,7 @@ items := []string{"apple", "banana", "cherry"}
 items = append(items, "date", "elderberry")
 ```
 
-2. Maps
+### 2. Maps
 
 ```go
 inventory := map[string]int{
@@ -187,7 +187,7 @@ emp := Employee{
 
 Explore Go's exceptional concurrency capabilities:
 
-1. Goroutines
+### 1. Goroutines
 
 ```go
 func processTask(taskID int) {
@@ -202,7 +202,7 @@ for i := 1; i <= 5; i++ {
 }
 ```
 
-2. Channels
+### 2. Channels
 
 ```go
 results := make(chan string, 10)
@@ -220,7 +220,7 @@ for result := range results {
 }
 ```
 
-3. Select
+### 3. Select
 
 ```go
 timeout := time.After(time.Second * 2)
@@ -241,7 +241,7 @@ for {
 
 Discover Go's rich standard library:
 
-1. IO Operations
+### 1. IO Operations
 
 ```go
 content := []byte("Hello, Go programming!")
@@ -256,7 +256,7 @@ if err == nil {
 }
 ```
 
-2. HTTP Server
+### 2. HTTP Server
 
 ```go
 http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
@@ -265,7 +265,7 @@ http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 http.ListenAndServe(":8080", nil)
 ```
 
-3. JSON Processing
+### 3. JSON Processing
 
 ```go
 type User struct {
@@ -280,7 +280,7 @@ json.Marshal(user)
 
 Learn about Go's testing capabilities:
 
-1. Unit Testing
+### 1. Unit Testing
 
 ```go
 func TestAdd(t *testing.T) {
@@ -290,7 +290,7 @@ func TestAdd(t *testing.T) {
 }
 ```
 
-2. Benchmarking
+### 2. Benchmarking
 
 ```go
 func BenchmarkAdd(b *testing.B) {
@@ -329,26 +329,34 @@ Follow Go best practices:
 
 ## Learning Path
 
-1. Beginner
+### 1. Beginner
 
 - Installation and setup
 - Basic syntax and types
 - Control structures
 - Functions and packages
 
-2. Intermediate
+### 2. Intermediate
 
 - Interface and methods
 - Error handling
 - Testing
 - Concurrency basics
 
-3. Advanced
+### 3. Advanced
 
 - Advanced concurrency patterns
 - Memory management
 - Performance optimization
 - Systems programming
+
+## Next Steps
+
+1. Start with the [Getting Started](docs/1.getting-started/1.0.getting-started.md) guide
+2. Practice with basic examples
+3. Build small projects
+4. Join the Go community
+5. Contribute to open source
 
 ## Additional Resources
 
@@ -358,11 +366,3 @@ Follow Go best practices:
 - [Effective Go](https://go.dev/doc/effective_go)
 - [Go Playground](https://go.dev/play)
 - [WebReference - Guide to Go](https://webreference.com/go)
-
-## Next Steps
-
-1. Start with the Getting Started guide
-2. Practice with basic examples
-3. Build small projects
-4. Join the Go community
-5. Contribute to open source

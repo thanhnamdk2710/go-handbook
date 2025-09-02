@@ -56,7 +56,7 @@ func worker(id int, ch chan<- string, wg *sync.WaitGroup) {
 
 Begin your Go journey with our comprehensive getting started guide:
 
-### 1. Installation:
+### 1. [Installation](docs/1.getting-started/1.1_installation.md):
 
 - System setup
 - Environment configuration
@@ -331,7 +331,7 @@ Follow Go best practices:
 
 ### 1. Beginner
 
-- Installation and setup
+- [Installation and setup](docs/1.getting-started/1.1_installation.md)
 - Basic syntax and types
 - Control structures
 - Functions and packages
@@ -352,11 +352,7 @@ Follow Go best practices:
 
 ## Next Steps
 
-1. Start with the [Getting Started](docs/1.getting-started/1.0.getting-started.md) guide
-2. Practice with basic examples
-3. Build small projects
-4. Join the Go community
-5. Contribute to open source
+Start with the [Getting Started](docs/1.getting-started/1.0.getting-started.md) guide
 
 ## Additional Resources
 

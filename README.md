@@ -62,7 +62,7 @@ Begin your Go journey with our comprehensive getting started guide:
 - Environment configuration
 - Verification steps
 
-### 2. First Steps
+### 2. [First Steps](docs/1.getting-started/1.2_first-program.md)
 
 - Basic syntax
 - Running programs

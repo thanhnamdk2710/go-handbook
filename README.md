@@ -68,7 +68,7 @@ Begin your Go journey with our comprehensive getting started guide:
 - Running programs
 - Development workflow
 
-### 3. Workspace Setup
+### 3. [Workspace Setup](docs/1.getting-started/1.3_workspace.md)
 
 - Project organization
 - Code structure

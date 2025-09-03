@@ -74,7 +74,7 @@ Begin your Go journey with our comprehensive getting started guide:
 - Code structure
 - Best practices
 
-### 4. Go Modules
+### 4. [Go Modules](docs/1.getting-started/1.4_modules.md)
 
 - Dependency management
 - Version control

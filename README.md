@@ -80,7 +80,7 @@ Begin your Go journey with our comprehensive getting started guide:
 - Version control
 - Package distribution
 
-### 5. Development Tools
+### 5. [Development Tools](docs/1.getting-started/1.5_tools.md)
 
 - Command-line utilities
 - IDE integration

@@ -52,7 +52,7 @@ func worker(id int, ch chan<- string, wg *sync.WaitGroup) {
 }
 ```
 
-## Getting Started
+## [Getting Started](docs/1.getting-started/1.0_getting-started.md)
 
 Begin your Go journey with our comprehensive getting started guide:
 
@@ -86,11 +86,11 @@ Begin your Go journey with our comprehensive getting started guide:
 - IDE integration
 - Debugging tools
 
-## Core Programming Concepts
+## [Core Programming Concepts](docs/2.language-basics/2.0_basics.md)
 
 Build mastery in Go's essential elements:
 
-### 1. Variables and Data Types
+### 1. [Variables and Data Types](docs/2.language-basics/2.1_variables.md)
 
 ```go
 var language string = "Golang"
@@ -332,7 +332,7 @@ Follow Go best practices:
 ### 1. Beginner
 
 - [Installation and setup](docs/1.getting-started/1.1_installation.md)
-- Basic syntax and types
+- [Basic syntax and types](docs/2.language-basics/2.1_variables.md)
 - Control structures
 - Functions and packages
 

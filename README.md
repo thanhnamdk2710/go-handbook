@@ -2,6 +2,106 @@
 
 Go (commonly referred to as Golang) is a robust, high-performance, and modern programming language created by Google engineers. This handbook covers all essential knowledge about Go programming, from basic concepts to advanced techniques.
 
+## Table of Contents
+
+- [Getting Started](docs/1.getting-started/1.0_getting-started.md)
+
+  - [Installation](docs/1.getting-started/1.1_installation.md)
+  - [First Program](docs/1.getting-started/1.2_first-program.md)
+  - [Go Workspace](docs/1.getting-started/1.3_workspace.md)
+  - [Go Modules](docs/1.getting-started/1.4_modules.md)
+  - [Go Tools](docs/1.getting-started/1.5_tools.md)
+
+- [Language Basics](docs/2.language-basics/2.0_basics.md)
+
+  - [Variables](docs/2.language-basics/2.1_variables.md)
+  - [Data Types](docs/2.language-basics/2.2_data_types.md)
+  - [Constants](docs/2.language-basics/2.3_constants.md)
+  - Operators
+  - Control Flow
+  - Functions
+  - Packages
+  - Error Handling
+  - Type Conversions
+  - Defer and Panic
+
+- Data Structures
+
+  - Arrays
+  - Slices
+  - Maps
+  - Structs
+  - Pointers
+  - Interfaces
+  - Type Embedding
+  - Custom Types
+
+- Concurrency
+
+  - Goroutines
+  - Channels
+  - Select
+  - Mutexes
+  - Context
+  - Race Conditions
+  - Worker Pools
+  - Atomic Operations
+  - Timeouts
+  - Rate Limiting
+  - Synchronization
+
+- Standard Library
+
+  - I/O Operations
+  - File Handling
+  - Time and Date
+  - JSON Processing
+  - Regular Expressions
+  - HTTP Client
+  - HTTP Server
+  - Template Engine
+
+- Testing
+
+  - Unit Testing
+  - Table Tests
+  - Benchmarking
+  - Mocking
+  - Test Coverage
+  - HTTP Testing
+  - Integration Tests
+
+- Web Development
+
+  - Web Servers
+  - Routing
+  - Middleware
+  - Sessions
+  - Authentication
+  - REST APIs
+  - GraphQL
+  - WebSockets
+
+- Database Access
+
+  - SQL Basics
+  - Connection Pooling
+  - Migrations
+  - ORMs
+  - NoSQL
+  - Transactions
+  - Query Building
+
+- Best Practices
+
+  - Project Structure
+  - Error Management
+  - Logging
+  - Configuration
+  - Performance
+  - Security
+  - Code Style
+
 ## The Go Advantage
 
 Go merges the best features from various programming languages:

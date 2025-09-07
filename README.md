@@ -17,7 +17,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Variables](docs/2.language-basics/2.1_variables.md)
   - [Data Types](docs/2.language-basics/2.2_data_types.md)
   - [Constants](docs/2.language-basics/2.3_constants.md)
-  - Operators
+  - [Operators](docs/2.language-basics/2.4_operators.md)
   - Control Flow
   - Functions
   - Packages

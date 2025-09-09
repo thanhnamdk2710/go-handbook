@@ -20,7 +20,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Operators](docs/2.language-basics/2.4_operators.md)
   - [Control Flow](docs/2.language-basics/2.5_control_flow.md)
   - [Functions](docs/2.language-basics/2.6_functions.md)
-  - Packages
+  - [Packages](docs/2.language-basics/2.7_packages.md)
   - Error Handling
   - Type Conversions
   - Defer and Panic

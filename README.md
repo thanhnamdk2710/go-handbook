@@ -23,7 +23,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Packages](docs/2.language-basics/2.7_packages.md)
   - [Error Handling](docs/2.language-basics/2.8_error_handling.md)
   - [Type Conversions](docs/2.language-basics/2.9_type_conversions.md)
-  - Defer and Panic
+  - [Defer and Panic](docs/2.language-basics/2.10_defer_panic.md)
 
 - Data Structures
 

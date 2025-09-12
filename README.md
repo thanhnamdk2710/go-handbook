@@ -25,9 +25,9 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Type Conversions](docs/2.language-basics/2.9_type_conversions.md)
   - [Defer and Panic](docs/2.language-basics/2.10_defer_panic.md)
 
-- Data Structures
+- [Data Structures](docs/3.data-structures/3.0_data_structures.md)
 
-  - Arrays
+  - [Arrays](docs/3.data-structures/3.1_arrays.md)
   - Slices
   - Maps
   - Structs

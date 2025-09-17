@@ -32,7 +32,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Maps](docs/3.data-structures/3.3_maps.md)
   - [Structs](docs/3.data-structures/3.4_structs.md)
   - [Pointers](docs/3.data-structures/3.5_pointers.md)
-  - Interfaces
+  - [Interfaces](docs/3.data-structures/3.6_interfaces.md)
   - Type Embedding
   - Custom Types
 

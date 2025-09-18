@@ -36,7 +36,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Type Embedding](docs/3.data-structures/3.7_type_embedding.md)
   - [Custom Types](docs/3.data-structures/3.8_custom_types.md)
 
-- Concurrency
+- [Concurrency](docs/4.concurrency/4.0_concurrency.md)
 
   - Goroutines
   - Channels

@@ -38,8 +38,8 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
 
 - [Concurrency](docs/4.concurrency/4.0_concurrency.md)
 
-  - Goroutines
-  - Channels
+  - [Goroutines](docs/4.concurrency/4.1_goroutines.md)
+  - [Channels](docs/4.concurrency/4.2_channels.md)
   - Select
   - Mutexes
   - Context

@@ -48,7 +48,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Atomic Operations](docs/4.concurrency/4.8_atomic.md)
   - [Timeouts](docs/4.concurrency/4.9_timeouts.md)
   - [Rate Limiting](docs/4.concurrency/4.10_rate_limiting.md)
-  - Synchronization
+  - [Synchronization](docs/4.concurrency/4.11_synchronization.md)
 
 - Standard Library
 

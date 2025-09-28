@@ -59,7 +59,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Regular Expressions](docs/5.standard-library/5.5_regex.md)
   - [HTTP Client](docs/5.standard-library/5.6_http_client.md)
   - [HTTP Server](docs/5.standard-library/5.7_http_server.md)
-  - Template Engine
+  - [Template Engine](docs/5.standard-library/5.8_templates.md)
 
 - Testing
 

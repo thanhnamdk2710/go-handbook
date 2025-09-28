@@ -57,7 +57,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Time and Date](docs/5.standard-library/5.3_time.md)
   - [JSON Processing](docs/5.standard-library/5.4_json.md)
   - [Regular Expressions](docs/5.standard-library/5.5_regex.md)
-  - HTTP Client
+  - [HTTP Client](docs/5.standard-library/5.6_http_client.md)
   - HTTP Server
   - Template Engine
 

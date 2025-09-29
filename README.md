@@ -61,9 +61,9 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [HTTP Server](docs/5.standard-library/5.7_http_server.md)
   - [Template Engine](docs/5.standard-library/5.8_templates.md)
 
-- Testing
+- [Testing](docs/6.testing/6.0_testing.md)
 
-  - Unit Testing
+  - [Unit Testing](docs/6.testing/6.1_unit_testing.md)
   - Table Tests
   - Benchmarking
   - Mocking

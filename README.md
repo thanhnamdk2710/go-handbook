@@ -71,7 +71,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [HTTP Testing](docs/6.testing/6.6_http_testing.md)
   - [Integration Tests](docs/6.testing/6.7_integration_tests.md)
 
-- Web Development
+- [Web Development](docs/7.web-development/7.0_web.md)
 
   - Web Servers
   - Routing

@@ -75,7 +75,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
 
   - [Web Servers](docs/7.web-development/7.1_servers.md)
   - [Routing](docs/7.web-development/7.2_routing.md)
-  - Middleware
+  - [Middleware](docs/7.web-development/7.3_middleware.md)
   - Sessions
   - Authentication
   - REST APIs

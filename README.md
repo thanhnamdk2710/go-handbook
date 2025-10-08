@@ -80,7 +80,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Authentication](docs/7.web-development/7.5_authentication.md)
   - [REST APIs](docs/7.web-development/7.6_rest_apis.md)
   - [GraphQL](docs/7.web-development/7.7_graphql.md)
-  - WebSockets
+  - [WebSockets](docs/7.web-development/7.8_websockets.md)
 
 - Database Access
 

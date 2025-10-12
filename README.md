@@ -88,7 +88,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Connection Pooling](docs/8.data-access/8.2_connection_pooling.md)
   - [Migrations](docs/8.data-access/8.3_migrations.md)
   - [ORMs](docs/8.data-access/8.4_orms.md)
-  - NoSQL
+  - [NoSQL](docs/8.data-access/8.5_nosql.md)
   - Transactions
   - Query Building
 

@@ -95,7 +95,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
 - [Best Practices](docs/9.best-practices/9.0_best_practices.md)
 
   - [Project Structure](docs/9.best-practices/9.1_project_structure.md)
-  - Error Management
+  - [Error Management](docs/9.best-practices/9.2_error_handling.md)
   - Logging
   - Configuration
   - Performance

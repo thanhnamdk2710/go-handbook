@@ -99,7 +99,7 @@ Go (commonly referred to as Golang) is a robust, high-performance, and modern pr
   - [Logging](docs/9.best-practices/9.3_logging.md)
   - [Configuration](docs/9.best-practices/9.4_configuration.md)
   - [Performance](docs/9.best-practices/9.5_performance.md)
-  - Security
+  - [Security](docs/9.best-practices/9.6_security.md)
   - Code Style
 
 ## The Go Advantage
